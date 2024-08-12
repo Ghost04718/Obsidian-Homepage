@@ -1,7 +1,7 @@
 # Obsidian-Homepage
 My customized Obsidian homepage
 
-### Screenshots
----
+## Screenshots
 ![screenshot](screenshots/dark.png)
+---
 ![screenshot](screenshots/light.png)
