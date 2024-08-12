@@ -4,6 +4,6 @@ My customized Obsidian homepage
 ### Screenshots
 ---
 - Dark
-![Hello, Adam_dark.png]
+![screenshot](screenshots/Hello, Adam_dark.png)
 - Light
-![Hello, Adam_light.png]
+![screenshot](screenshots/Hello, Adam_light.png)
