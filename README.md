@@ -1,6 +1,5 @@
 # Obsidian-Homepage
-My customized Obsidian homepage.<br>
-我自己的Obsidian homepage。
+My customized Obsidian homepage.
 
 ## Screenshots
 ![screenshot](screenshots/dark.png)
