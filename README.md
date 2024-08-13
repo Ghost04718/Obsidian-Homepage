@@ -1,5 +1,6 @@
 # Obsidian-Homepage
 My customized Obsidian homepage.
+我自己的Obsidian homepage。
 
 ## Screenshots
 ![screenshot](screenshots/dark.png)
@@ -37,6 +38,11 @@ My customized Obsidian homepage.
 You can download from `snippets` and drag them into your `vault/.obsidian/snippets` (if the folder does not exist you can create one yourself) .
 
 ---
+## 实况
+![screenshot](screenshots/dark.png)
+---
+![screenshot](screenshots/light.png)
+
 ## 关键功能
 - **每日句子**
   - 随机选择一条笔记（以特定方式）并显示其内容（我实现的是每条笔记包含一句话和一些标签）
