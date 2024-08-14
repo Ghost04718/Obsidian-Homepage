@@ -1,5 +1,5 @@
 # Obsidian-Homepage
-My customized Obsidian homepage.
+My customized Obsidian homepage. You may find my blog [How to DIY Obsidian homeopage](https://ghost04718.github.io/skills/obsidian/2024/08/14/Obsidian-homepage.html) helpful.
 
 ## Screenshots
 ![screenshot](screenshots/dark.png)
