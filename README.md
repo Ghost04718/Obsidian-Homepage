@@ -3,8 +3,6 @@ My customized Obsidian homepage. You may find my blog [How to DIY Obsidian homeo
 
 ## Screenshots
 ![screenshot](screenshots/dark.png)
----
-![screenshot](screenshots/light.png)
 
 ## Key Features
 - **Daily Sentence**
@@ -35,8 +33,6 @@ You can download from `snippets` and drag them into your `vault/.obsidian/snippe
 ---
 ## 实况
 ![screenshot](screenshots/dark.png)
----
-![screenshot](screenshots/light.png)
 
 ## 关键功能
 - **每日一句**
