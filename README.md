@@ -32,4 +32,4 @@ My customized Obsidian homepage. Feel free to download the template vault and pl
 - Style Settings
 - Tracker
 ### CSS snippets
-You can download from `.obsidian/snippets` and drag them into your `vault/.obsidian/snippets` (if the folder does not exist you can create one yourself).
+You can download from `snippets` and drag them into your `vault/.obsidian/snippets` (if the folder does not exist you can create one yourself).
