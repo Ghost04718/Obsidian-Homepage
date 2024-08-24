@@ -1,0 +1,4 @@
+- Today: `= round((date(tomorrow)-date(now)).day,2)` days
+- This Week： `= round((date(eow)-date(now)).day,2)` days
+- `= date(today).month` Month： `= round((date(eom)-date(now)).day,2) ` days
+- `= date(today).year` Year：`= round((date(eoy)-date(now)).day,2)` days
